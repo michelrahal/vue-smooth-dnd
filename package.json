@@ -45,8 +45,8 @@
     "url": "https://github.com/kutlugsahin/vue-smooth-dnd/issues"
   },
   "dependencies": {
-    "smooth-dnd": "0.12.1"
-  },
+    "smooth-dnd": "git+https://github.com/michelrahal/smooth-dnd.git"
+  },  
   "devDependencies": {
     "babel-jest": "^23.4.0",
     "cross-env": "^5.2.0",
